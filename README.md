@@ -44,7 +44,7 @@ Your app will be live at [http://localhost:5173](http://localhost:5173) (or whic
 
 ## 🧑‍💻 Author
 
-**Manish**  
+# Manish
 [GitHub](https://github.com/Dot-Name) | [LinkedIn](https://www.linkedin.com/in/manish-singh-96a2bb273/) | [Twitter](https://x.com/MANISHS103)
 
 ---
